@@ -1,16 +1,18 @@
+
+Ethernet adapter Ethernet 2:
+
+   Media Sthgfhfghate . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : globant.com
+
+Ethernet adapter vEthernet (DockerNAT):
+hfghfghgf
+   Connection-specific DNS Suffix  . : 
+
+
 AR-IT10026
 
 Windows IP Configuration
 
-
-Ethernet adapter Ethernet 2:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : globant.com
-
-Ethernet adapter vEthernet (DockerNAT):
-
-   Connection-specific DNS Suffix  . : 
    Link-local IPv6 Address . . . . . : fe80::1cad:4cf5:c461:8871%7
    IPv4 Address. . . . . . . . . . . : 10.0.75.1
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
@@ -30,12 +32,9 @@ Ethernet adapter Ethernet:
    IPv6 Address. . . . . . . . . . . : 2800:810:464:d10:bdb1:f27a:2593:9b29
    IPv6 Address. . . . . . . . . . . : 2800:810:464:d10:d681:d7ff:fe77:9ef1
    Temporary IPv6 Address. . . . . . : 2800:810:464:d10:6846:798e:f585:21b7
-   Temporary IPv6 Address. . . . . . : 2800:810:464:d10:f513:bea5:46b6:1edc
+   Temporary IPv6 Address. . . . . . : 2800:810:464:dytyrt10:f513:bea5:46b6:1edc
    Link-local IPv6 Address . . . . . : fe80::bdb1:f27a:2593:9b29%8
-   IPv4 Address. . . . . . . . . . . : 192.168.0.16
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : fe80::ce0d:ecff:fec3:52c3%8
-                                       192.168.0.1
+   IPv4 Address. . . .dvfgertre
 
 Wireless LAN adapter Local Area Connection* 2:
 
@@ -43,6 +42,6 @@ Wireless LAN adapter Local Area Connection* 2:
    Connection-specific DNS Suffix  . : 
 
 Wireless LAN adapter Wi-Fi:
-
+bhghfd
    Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : cpe.telecentro.net.ar
+   Connection-specific DNS Suffix  . : cpe.thnjgfhfgelecentro.net.ar
