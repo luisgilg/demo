@@ -1,47 +1,40 @@
+ar-it0002854
 
-Ethernet adapter Ethernet 2:
-
-   Media Sthgfhfghate . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : globant.com
-
-Ethernet adapter vEthernet (DockerNAT):
-hfghfghgf
-   Connection-specific DNS Suffix  . : 
+Configuraci¢n IP de Windows
 
 
-AR-IT10026
+Adaptador de Ethernet Conexi¢n de  rea local 2:
 
-Windows IP Configuration
+   Sufijo DNS espec¡fico para la conexi¢n. . : globant.com
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::4128:dde5:ab4:293c%12
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 10.24.16.173
+   M scara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . : 
 
-   Link-local IPv6 Address . . . . . : fe80::1cad:4cf5:c461:8871%7
-   IPv4 Address. . . . . . . . . . . : 10.0.75.1
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 
+Adaptador de Ethernet Conexi¢n de  rea local:
 
-Ethernet adapter vEthernet (HNS Internal NIC):
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::c921:8e22:51be:6be9%10
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.4
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
 
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::88cc:2c95:9232:b70%19
-   IPv4 Address. . . . . . . . . . . : 172.29.144.1
-   Subnet Mask . . . . . . . . . . . : 255.255.240.0
-   Default Gateway . . . . . . . . . : 
+Adaptador de t£nel isatap.globant.com:
 
-Ethernet adapter Ethernet:
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : globant.com
 
-   Connection-specific DNS Suffix  . : cpe.telecentro.net.ar
-   IPv6 Address. . . . . . . . . . . : 2800:810:464:d10:bdb1:f27a:2593:9b29
-   IPv6 Address. . . . . . . . . . . : 2800:810:464:d10:d681:d7ff:fe77:9ef1
-   Temporary IPv6 Address. . . . . . : 2800:810:464:d10:6846:798e:f585:21b7
-   Temporary IPv6 Address. . . . . . : 2800:810:464:dytyrt10:f513:bea5:46b6:1edc
-   Link-local IPv6 Address . . . . . : fe80::bdb1:f27a:2593:9b29%8
-   IPv4 Address. . . .dvfgertre
+Adaptador de t£nel isatap.{1C2A7784-59CC-4AD5-B1CC-B661DDD8F9DC}:
 
-Wireless LAN adapter Local Area Connection* 2:
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
 
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
+Adaptador de t£nel 6TO4 Adapter:
 
-Wireless LAN adapter Wi-Fi:
-bhghfd
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : cpe.thnjgfhfgelecentro.net.ar
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . :
